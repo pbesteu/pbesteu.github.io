@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Audiowide";
+    src: url("/assets/fonts/Audiowide-Regular.ttf");
+}
+
+@font-face {
+    font-family: "FlowRounded";
+    src: url("/assets/fonts/FlowRounded-Regular.ttf");
+}
+
+h1 {
+    font-family: "Audiowide";
+}
+
+.placeholder-content {
+    font-family: "FlowRounded";
+}

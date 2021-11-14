@@ -1,7 +1,7 @@
 ---
-layout: home
-title: pbest
-subtitle: ICT Consulting
+layout: page
+title: About us
+subtitle: About PBest Consulting
 ---
 
 <p class="placeholder-content">
@@ -10,4 +10,3 @@ subtitle: ICT Consulting
 <p class="placeholder-content">
     Libero justo laoreet sit amet cursus sit. Mollis aliquam ut porttitor leo a diam sollicitudin. Sed turpis tincidunt id aliquet. Ac orci phasellus egestas tellus. Purus semper eget duis at. Imperdiet sed euismod nisi porta. Scelerisque viverra mauris in aliquam sem fringilla ut morbi. Tortor aliquam nulla facilisi cras fermentum odio eu. Non pulvinar neque laoreet suspendisse interdum consectetur libero id. Leo urna molestie at elementum eu. Feugiat vivamus at augue eget arcu dictum varius. Viverra tellus in hac habitasse platea dictumst vestibulum rhoncus est.
 </p>
-
