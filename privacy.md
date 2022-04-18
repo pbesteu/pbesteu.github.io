@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PBEST Privacy Policy
+title: Privacy Policy
 subtitle: We do care your privacy
 ---
 
